@@ -5,8 +5,8 @@
 # catalog-license pd
 # catalog-version undef
 Name:		texlive-lshort-bulgarian
-Version:	20180303
-Release:	2
+Version:	20190228
+Release:	1
 Summary:	Bulgarian translation of the "Short Introduction to LaTeX2e"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/lshort/bulgarian
